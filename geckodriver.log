@@ -179,3 +179,377 @@ DevTools listening on ws://127.0.0.1:50179/devtools/browser/40a04c3e-b511-4acd-8
 console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
 JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667742441978	geckodriver	INFO	Listening on 127.0.0.1:63865
+1667742445053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63866" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileInDOLL"
+1667742445304	Marionette	INFO	Marionette enabled
+1667742445308	Marionette	INFO	Listening on port 63891
+WebDriver BiDi listening on ws://127.0.0.1:63866
+Read port: 63891
+1667742445426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileInDOLL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63866/devtools/browser/e4df8c82-890f-4592-b117-5e445a314f14
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667743122913	geckodriver	INFO	Listening on 127.0.0.1:64549
+1667743125984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64550" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileJQx8sn"
+1667743126207	Marionette	INFO	Marionette enabled
+1667743126210	Marionette	INFO	Listening on port 64563
+WebDriver BiDi listening on ws://127.0.0.1:64550
+Read port: 64563
+1667743126401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileJQx8sn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64550/devtools/browser/149d88b3-4bc9-4985-82fb-1416b0bc95c0
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667743823117	geckodriver	INFO	Listening on 127.0.0.1:65053
+1667743826187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65054" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofilei2wrqP"
+1667743826407	Marionette	INFO	Marionette enabled
+1667743826410	Marionette	INFO	Listening on port 65066
+WebDriver BiDi listening on ws://127.0.0.1:65054
+Read port: 65066
+1667743826604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofilei2wrqP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65054/devtools/browser/21bd72a0-7fe7-4769-9586-b6da371a690f
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667744688459	geckodriver	INFO	Listening on 127.0.0.1:58168
+1667744691526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileNos2RQ"
+1667744691749	Marionette	INFO	Marionette enabled
+1667744691752	Marionette	INFO	Listening on port 58184
+WebDriver BiDi listening on ws://127.0.0.1:58169
+Read port: 58184
+1667744691954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileNos2RQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58169/devtools/browser/51c81a6b-fac3-47fe-be76-3031577333ae
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667744737733	Marionette	INFO	Stopped listening on port 58184
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667744750498	geckodriver	INFO	Listening on 127.0.0.1:58291
+1667744753566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58292" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofiledpgcAb"
+1667744753786	Marionette	INFO	Marionette enabled
+1667744753789	Marionette	INFO	Listening on port 58306
+WebDriver BiDi listening on ws://127.0.0.1:58292
+Read port: 58306
+1667744753983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofiledpgcAb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58292/devtools/browser/d3b9891e-f2c4-465f-b11d-caa775b56902
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667744769593	Marionette	INFO	Stopped listening on port 58306
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667746579295	geckodriver	INFO	Listening on 127.0.0.1:59294
+1667746582317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofile4lLz05"
+1667746582539	Marionette	INFO	Marionette enabled
+1667746582542	Marionette	INFO	Listening on port 59311
+WebDriver BiDi listening on ws://127.0.0.1:59295
+Read port: 59311
+1667746582737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofile4lLz05\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59295/devtools/browser/78abd1cd-0eaf-4aa8-8621-44728847240e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667746730282	geckodriver	INFO	Listening on 127.0.0.1:59560
+1667746733332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofilearf2yC"
+1667746733568	Marionette	INFO	Marionette enabled
+1667746733572	Marionette	INFO	Listening on port 59574
+WebDriver BiDi listening on ws://127.0.0.1:59561
+Read port: 59574
+1667746733775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofilearf2yC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59561/devtools/browser/3189a13a-38dd-4677-a153-c611fb7a0be9
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667746911266	geckodriver	INFO	Listening on 127.0.0.1:56255
+1667746914315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56256" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofilebj5naN"
+1667746914536	Marionette	INFO	Marionette enabled
+1667746914540	Marionette	INFO	Listening on port 56268
+WebDriver BiDi listening on ws://127.0.0.1:56256
+Read port: 56268
+1667746914733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofilebj5naN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56256/devtools/browser/bec14428-43ac-46f8-bdb5-b3708861e977
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667746922088	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667747008438	geckodriver	INFO	Listening on 127.0.0.1:56469
+1667747011510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56470" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofilexhDYEt"
+1667747011734	Marionette	INFO	Marionette enabled
+1667747011738	Marionette	INFO	Listening on port 56483
+WebDriver BiDi listening on ws://127.0.0.1:56470
+Read port: 56483
+1667747011932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofilexhDYEt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56470/devtools/browser/475b711b-238c-4a01-8c25-397e88c0217e
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667747097241	geckodriver	INFO	Listening on 127.0.0.1:56655
+1667747100311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56656" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileYwn2eI"
+1667747100540	Marionette	INFO	Marionette enabled
+1667747100543	Marionette	INFO	Listening on port 56667
+WebDriver BiDi listening on ws://127.0.0.1:56656
+Read port: 56667
+1667747100735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileYwn2eI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56656/devtools/browser/784fe8c3-492c-4f6e-b6d9-ab94f46c9039
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667747149851	geckodriver	INFO	Listening on 127.0.0.1:56778
+1667747152924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofile6Fa6Wx"
+1667747153144	Marionette	INFO	Marionette enabled
+1667747153147	Marionette	INFO	Listening on port 56791
+WebDriver BiDi listening on ws://127.0.0.1:56779
+Read port: 56791
+1667747153342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofile6Fa6Wx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56779/devtools/browser/2f8ba561-f4a4-41c4-907c-5a82c6b0f874
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667747223402	geckodriver	INFO	Listening on 127.0.0.1:56873
+1667747226464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56874" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileZFpQvT"
+1667747226687	Marionette	INFO	Marionette enabled
+1667747226690	Marionette	INFO	Listening on port 56885
+WebDriver BiDi listening on ws://127.0.0.1:56874
+Read port: 56885
+1667747226884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileZFpQvT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56874/devtools/browser/fa90535b-24fd-4fc9-8184-01d5ff6cd5ff
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667747236571	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667747305763	geckodriver	INFO	Listening on 127.0.0.1:57075
+1667747308834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57076" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileB5Mh1x"
+1667747309050	Marionette	INFO	Marionette enabled
+1667747309053	Marionette	INFO	Listening on port 57087
+WebDriver BiDi listening on ws://127.0.0.1:57076
+Read port: 57087
+1667747309248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileB5Mh1x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57076/devtools/browser/1dcca274-29b1-4c46-8de4-0089af03fca0
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://anoop-111.github.io."
+1667747390225	geckodriver	INFO	Listening on 127.0.0.1:57277
+1667747393284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57278" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileNEAZS7"
+1667747393503	Marionette	INFO	Marionette enabled
+1667747393506	Marionette	INFO	Listening on port 57288
+WebDriver BiDi listening on ws://127.0.0.1:57278
+Read port: 57288
+1667747393700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileNEAZS7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57278/devtools/browser/b6b76420-d31c-43a1-8b6e-8b507961b6e8
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667747403262	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://anoop-111.github.io."
+1667747418362	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667748090554	geckodriver	INFO	Listening on 127.0.0.1:58011
+1667748093628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58012" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileo5CNZL"
+1667748093879	Marionette	INFO	Marionette enabled
+1667748093883	Marionette	INFO	Listening on port 58028
+Read port: 58028
+WebDriver BiDi listening on ws://127.0.0.1:58012
+1667748093993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileo5CNZL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58012/devtools/browser/69f07f46-a38c-4680-85f2-8e30bec16439
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.amazon.in/Noise-ColorFit-Display-Monitoring-Smartwatches/dp/B09PNKXSKF/ref=sr_1_4?crid=BQRV9W6ORN4B&keywords=smart+watch&qid=1667308498&qu=eyJxc2MiOiI3LjM4IiwicXNhIjoiNy40NCIsInFzcCI6IjYuNzAifQ%3D%3D&sprefix=smart+watc%2Caps%2C389&sr=8-4 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667748127115	Marionette	INFO	Stopped listening on port 58028
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667748233919	geckodriver	INFO	Listening on 127.0.0.1:58432
+1667748236993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileVViS2o"
+1667748237215	Marionette	INFO	Marionette enabled
+1667748237218	Marionette	INFO	Listening on port 58445
+WebDriver BiDi listening on ws://127.0.0.1:58433
+Read port: 58445
+1667748237417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileVViS2o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58433/devtools/browser/837c4766-e1c6-4276-b496-11586d13b2a2
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.amazon.in/Noise-ColorFit-Display-Monitoring-Smartwatches/dp/B09PNKXSKF/ref=sr_1_4?crid=BQRV9W6ORN4B&keywords=smart+watch&qid=1667308498&qu=eyJxc2MiOiI3LjM4IiwicXNhIjoiNy40NCIsInFzcCI6IjYuNzAifQ%3D%3D&sprefix=smart+watc%2Caps%2C389&sr=8-4 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667748349543	geckodriver	INFO	Listening on 127.0.0.1:58848
+1667748352610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofiletvvqME"
+1667748352830	Marionette	INFO	Marionette enabled
+1667748352834	Marionette	INFO	Listening on port 58860
+WebDriver BiDi listening on ws://127.0.0.1:58849
+Read port: 58860
+1667748353036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofiletvvqME\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58849/devtools/browser/9de14be8-355c-4fb0-ae37-3795ddb1c576
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+1667748638428	geckodriver	INFO	Listening on 127.0.0.1:59218
+1667748641489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileIsk7sU"
+1667748641724	Marionette	INFO	Marionette enabled
+1667748641727	Marionette	INFO	Listening on port 59232
+WebDriver BiDi listening on ws://127.0.0.1:59219
+Read port: 59232
+1667748641924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileIsk7sU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59219/devtools/browser/a73ab209-45e6-47cb-8f18-cd12b491b2ef
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+1667748671305	Marionette	INFO	Stopped listening on port 59232
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667748687389	geckodriver	INFO	Listening on 127.0.0.1:59428
+1667748690452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofile3fd54y"
+1667748690674	Marionette	INFO	Marionette enabled
+1667748690677	Marionette	INFO	Listening on port 59442
+WebDriver BiDi listening on ws://127.0.0.1:59429
+Read port: 59442
+1667748690872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofile3fd54y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59429/devtools/browser/76740ed1-c163-4aac-87f4-16de69d58a2d
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+1667749065353	geckodriver	INFO	Listening on 127.0.0.1:59922
+1667749068412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileIm4ZZ1"
+1667749068632	Marionette	INFO	Marionette enabled
+1667749068635	Marionette	INFO	Listening on port 59935
+WebDriver BiDi listening on ws://127.0.0.1:59923
+Read port: 59935
+1667749068830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileIm4ZZ1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59923/devtools/browser/a86134ab-220c-4901-b7b9-e3a8c7a4c73b
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript warning: https://www.amazon.in/boAt-Display-Multiple-Monitoring-Charcoal/dp/B09MQSCJQ1/ref=sr_1_6?keywords=smart%2Bwatch&qid=1667308573&qu=eyJxc2MiOiI3LjM4IiwicXNhIjoiNy40NCIsInFzcCI6IjYuNzAifQ%3D%3D&sr=8-6&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+1667749118709	Marionette	INFO	Stopped listening on port 59935
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667750160531	geckodriver	INFO	Listening on 127.0.0.1:60688
+1667750163603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofilezXBE3T"
+1667750163833	Marionette	INFO	Marionette enabled
+1667750163836	Marionette	INFO	Listening on port 60701
+WebDriver BiDi listening on ws://127.0.0.1:60689
+Read port: 60701
+1667750164033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofilezXBE3T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60689/devtools/browser/1ce3142a-789d-457c-abfd-0f24bb2f5828
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1667750188662	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667750188678	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667750192403	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667750196119	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://anoop-111.github.io."
+1667750431849	geckodriver	INFO	Listening on 127.0.0.1:60917
+1667750434895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60918" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileauL3lJ"
+1667750435118	Marionette	INFO	Marionette enabled
+1667750435121	Marionette	INFO	Listening on port 60928
+WebDriver BiDi listening on ws://127.0.0.1:60918
+Read port: 60928
+1667750435319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anoop\\AppData\\Local\\Temp\\rust_mozprofileauL3lJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60918/devtools/browser/535960f9-a29b-464e-a982-3620a30efee0
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+1667750514661	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667750514676	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667750518414	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667750522132	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667750525855	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+1667750529577	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginHelper(Content): "Couldn't parse specified uri mailto:anoopkumarshukla111@gmail.com with error NS_ERROR_FAILURE"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://anoop-111.github.io."
